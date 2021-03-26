@@ -1,6 +1,6 @@
 # pogoda_app
 
-A new pogoda app
+RSS Reader сайта habr.com
 
 ## Getting Started
 
